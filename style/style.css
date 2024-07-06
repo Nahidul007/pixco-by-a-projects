@@ -79,3 +79,37 @@ border-radius: 8px;
 background: rgb(82, 195, 3);
 border: none;
 }
+
+#card_box{
+    width: 400px;
+    margin: 0 auto;
+}
+
+#card_box .info{
+    margin:80px auto;
+
+}
+
+.subtitel1{
+    color: rgb(16, 16, 16);
+font-family: Work Sans;
+font-size: 9px;
+font-weight: 500;
+line-height: 10px;
+letter-spacing: 0%;
+text-align: center;
+opacity: 0.6;
+
+}
+
+.titel1{
+    color: rgb(16, 16, 16);
+font-family: Work Sans;
+font-size: 27px;
+font-weight: 700;
+line-height: 28px;
+letter-spacing: 0%;
+text-align: center;
+
+}
+  
